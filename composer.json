@@ -3,7 +3,7 @@
     "description": "适用于laravel-admin的多语言支持扩展",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/snowsofts/multi-language",
+    "homepage": "https://github.com/snowsoft/multi-language",
     "license": "MIT",
     "authors": [
         {
