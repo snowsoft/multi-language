@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-extensions/multi-language",
+    "name": "snowsoft/multi-language",
     "description": "适用于laravel-admin的多语言支持扩展",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-extensions/multi-language",
+    "homepage": "https://github.com/snowsofts/multi-language",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6"
+        "snowsoft/laravel-admin": "~1.6"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
